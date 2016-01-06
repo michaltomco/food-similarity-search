@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/objects/FoodMetaObjectMapMicronutrients.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/enums/FoodCategory.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/cli/AlgorithmManager.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/objects/FoodMetaObjectMap.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/cli/NutrientDataManager.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/operations/query/KNNFoodDietQueryOperation.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/objects/FoodMetaObjectMapMinerals.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/objects/FoodMetaObjectMapMacronutrientsWithCategory.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/objects/FoodMetaObjectMapAllNutrients.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/cli/FoodSimilaritySearch.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/objects/FoodMetaObjectMapVitamins.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/cli/GoBackException.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/enums/Nutrient.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/csvparser/CSVParser.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/objects/FoodMetaObjectMapMacronutrients.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/enums/Diet.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/food/operations/query/GetFoodByDietQueryOperation.java</file>
+            <file>file:/C:/Users/tomco/Documents/NetBeansProjects/FoodSimilaritySearch/src/cli/SearchManager.java</file>
+        </group>
+    </open-files>
+</project-private>
